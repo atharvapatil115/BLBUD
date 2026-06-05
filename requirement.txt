@@ -1,0 +1,39 @@
+# Document Processing
+pdfplumber
+python-docx
+python-pptx
+pymupdf
+
+mistralai
+
+# OCR (optional)
+pytesseract
+Pillow
+
+# Data Processing
+pandas
+numpy
+
+# Chunking & Embeddings
+sentence-transformers
+transformers
+torch
+
+# Vector Database
+faiss-cpu
+
+# Utilities
+tqdm
+
+# Environment Variables
+python-dotenv
+
+# LLM Integration
+requests
+
+# Optional UI
+streamlit
+
+langchain-text-splitters
+
+streamlit

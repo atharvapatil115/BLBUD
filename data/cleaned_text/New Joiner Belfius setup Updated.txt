@@ -1,0 +1,11 @@
+Please raise the requests and do the required installation for Belfius account Setup :
+Download Okta Verify in mobile
+Raise a request in askGenie for Cisco IP installation in laptop for calling Belgium helpdesk . Plz put details as below:
+Raise a request for IP phone allocation also as below:
+Also ensure that you are able to dial from it and ISD feature should been enabled on your extension and also FAC code should be provided
+Path for raising request : Askgenie > Create a request >Hexaware IT >Voice services> cisco management > Softphone creation
+HDX is a Citrix plugin to enhance audio-visual quality of meetings in Citrix VDI.
+After Citrix setup, please download HDX by clicking the first Download File link on the page https://www.citrix.com/downloads/workspace-app/additional-client-software/hdx-realtime-media-engine-27.html
+you will connect to client domain using Citrix VDI, please create Genie ticket to setup Citrix as follows (host name to be your laptop s host name):
+Raise an incident ticket for cisco profile configuration under the below mentioned category:
+Askgenie> Create Incident > Create IT Incident > Voice Service > IP phone

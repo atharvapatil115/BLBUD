@@ -36,4 +36,15 @@ streamlit
 
 langchain-text-splitters
 
-streamlit
+streamlit   
+
+
+fastapi
+
+uvicorn 
+
+sqlalchemy 
+
+passlib[bcrypt] 
+
+python-jose

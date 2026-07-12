@@ -1,0 +1,27 @@
+[
+    {
+        "chunk_id": 0,
+        "source_file": "New Joiner Belfius setup Updated.txt",
+        "text": "Please raise the requests and do the required installation for Belfius account Setup :\nDownload Okta Verify in mobile\nRaise a request in askGenie for Cisco IP installation in laptop for calling Belgium helpdesk . Plz put details as below:\nRaise a request for IP phone allocation also as below:"
+    },
+    {
+        "chunk_id": 1,
+        "source_file": "New Joiner Belfius setup Updated.txt",
+        "text": "Also ensure that you are able to dial from it and ISD feature should been enabled on your extension and also FAC code should be provided\nPath for raising request : Askgenie > Create a request >Hexaware IT >Voice services> cisco management > Softphone creation"
+    },
+    {
+        "chunk_id": 2,
+        "source_file": "New Joiner Belfius setup Updated.txt",
+        "text": "HDX is a Citrix plugin to enhance audio-visual quality of meetings in Citrix VDI.\nAfter Citrix setup, please download HDX by clicking the first Download File link on the page https://www.citrix.com/downloads/workspace-app/additional-client-software/hdx-realtime-media-engine-27.html"
+    },
+    {
+        "chunk_id": 3,
+        "source_file": "New Joiner Belfius setup Updated.txt",
+        "text": "you will connect to client domain using Citrix VDI, please create Genie ticket to setup Citrix as follows (host name to be your laptop s host name):\nRaise an incident ticket for cisco profile configuration under the below mentioned category:"
+    },
+    {
+        "chunk_id": 4,
+        "source_file": "New Joiner Belfius setup Updated.txt",
+        "text": "Askgenie> Create Incident > Create IT Incident > Voice Service > IP phone"
+    }
+]

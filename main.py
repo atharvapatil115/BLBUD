@@ -16,6 +16,7 @@ from src.retrieval.retriever import (
 from src.llm.mistral import (
     MistralLLM
 )
+# from src.HandleImage.imgprocess import get_image_info
 embedder = EmbeddingPipeline(api_key=os.getenv("MISTRAL_API_KEY"))
 extractor = DocumentExtractor()
 
@@ -46,60 +47,62 @@ process_embeddings_folder(
 
 
 
-# retriever = Retriever(
-#     index_path="data/vector_store/index.faiss",
-#     metadata_path="data/vector_store/metadata.pkl"
-# )
+# # retriever = Retriever(
+# #     index_path="data/vector_store/index.faiss",
+# #     metadata_path="data/vector_store/metadata.pkl"
+# # )
 
-# query = input(
-#     "\nAsk Question: "
-# )
+# # query = input(
+# #     "\nAsk Question: "
+# # )
 
-# results = retriever.search(
-#     query=query,
-#     top_k=5
-# )
+# # results = retriever.search(
+# #     query=query,
+# #     top_k=5
+# # )
 
-# context = build_context(
-#     results
-# )
+# # context = build_context(
+# #     results
+# # )
 
-# print("\n")
-# print("=" * 50)
-# print("RETRIEVED CONTEXT")
-# print("=" * 50)
+# # print("\n")
+# # print("=" * 50)
+# # print("RETRIEVED CONTEXT")
+# # print("=" * 50)
 
-# print(context)
+# # print(context)
 
-# while True:
-#     retriever = Retriever(
-#         index_path="data/vector_store/index.faiss",
-#         metadata_path="data/vector_store/metadata.pkl",
+# # while True:
+# #     retriever = Retriever(
+# #         index_path="data/vector_store/index.faiss",
+# #         metadata_path="data/vector_store/metadata.pkl",
 
-#     )
+# #     )
 
-#     llm = MistralLLM()
+# #     llm = MistralLLM()
 
-#     query = input(
-#         "\nAsk Question: "
-#     )
+# #     query = input(
+# #         "\nAsk Question: "
+# #     )
 
-#     results = retriever.search(
-#         query=query,
-#         top_k=5
-#     )
+# #     results = retriever.search(
+# #         query=query,
+# #         top_k=5
+# #     )
 
-#     context = build_context(
-#         results
-#     )
+# #     context = build_context(
+# #         results
+# #     )
 
-#     answer = llm.generate(
-#         query=query,
-#         context=context
-#     )
+# #     answer = llm.generate(
+# #         query=query,
+# #         context=context
+# #     )
 
-#     print("\n")
-#     print("=" * 50)
-#     print("ANSWER")
-#     print("=" * 50)
-#     print(answer)
+# #     print("\n")
+# #     print("=" * 50)
+# #     print("ANSWER")
+# #     print("=" * 50)
+# #     print(answer)
+
+# get_image_info(image_path='data/raw_docs/sample.png')

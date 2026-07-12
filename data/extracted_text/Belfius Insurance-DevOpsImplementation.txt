@@ -1,0 +1,39 @@
+
+--- SLIDE 1 ---
+
+Belfius Insurance DevOps Implementation Plan
+17-Dec-2021
+
+--- SLIDE 2 ---
+
+Hexaware’s DevOps Vision for Belins
+The Hexaware team performed an in-depth DevOps assessment of Belfius Insurance current DevOps practices. Based on the outcome of the assessment , Hexaware has prepared an implementation plan to enable and improve DevOps Maturity at Belins . 
+Limited Efforts form the Belins Stakeholders
+
+--- SLIDE 3 ---
+
+Hexaware’s Solution approach
+
+--- SLIDE 4 ---
+
+Implementation Roadmap
+** This is an indicative time line , The final plan will be agreed  during the first month where the Roadmap is decided with Belfius stakeholders
+2 weeks
+2022
+2023
+
+--- SLIDE 5 ---
+
+Hexaware Team and efforts
+
+--- SLIDE 6 ---
+
+Belfius stakeholder support during the project
+
+--- SLIDE 7 ---
+
+Key Benefits
+
+--- SLIDE 8 ---
+
+Thank you
